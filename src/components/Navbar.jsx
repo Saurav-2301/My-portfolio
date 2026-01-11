@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import openMenu from "../assets/menu.png";
 import closeMenu from "../assets/cross.png";
 import logoimg from "../assets/logo.png";
-import Logo from "../assets/Logo.png";
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
